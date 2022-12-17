@@ -115,6 +115,8 @@ State Machine Diagrams
 
 </details> <!-- ## Diagrams -->
 
+<details> <summary>
+
 ## To-Do List
 
 </summary>
@@ -179,7 +181,7 @@ Here will be listed things that I still want to do with this repository.
     - [ ] Firebase?
 - [ ] Create actual docstrings
 
-</details>
+</details> <!-- ### Misc -->
 
 <details> <summary>
 
@@ -196,9 +198,9 @@ Here will be listed things that I still want to do with this repository.
   - Dense Repo (?)
   - Everything (?)
 
-</details>
+</details> <!-- ### File Structure -->
 
-</details>
+</details> <!-- ## To-Do List -->
 
 <details> <summary>
 
@@ -208,7 +210,7 @@ Here will be listed things that I still want to do with this repository.
 
 This bottom part is still Work In Progress.
 
-</details>
+</details> <!-- ## WIP -->
 
-[UENFSite]: uenf.br
-[UMLDiagrams]: creately.com/blog/diagrams/uml-diagram-types-examples
+[UENFSite]: https://uenf.br
+[UMLDiagrams]: https:/creately.com/blog/diagrams/uml-diagram-types-examples
